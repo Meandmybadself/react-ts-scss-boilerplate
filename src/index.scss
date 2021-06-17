@@ -13,6 +13,14 @@ body {
     box-sizing: inherit;
 }
 
+html,
+body,
+#root,
+#app {
+    height: 100%;
+}
+
+
 div#app {
     font-family: "SF Pro Text", -apple-system, "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, "Lucida Grande",
         sans-serif;
